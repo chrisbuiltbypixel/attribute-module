@@ -1,0 +1,23 @@
+{
+    "name": "builtbypixel/attribute-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Chris Mills",
+            "email": "chris@builtbypixel.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Attribute\\": ""
+        }
+    }
+}
